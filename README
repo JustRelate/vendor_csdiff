@@ -1,0 +1,7 @@
+---- Windows ----
+Quelle: http://www.componentsoftware.com/pftp/csdiff.zip
+
+Auspacken nach External-osdep/csdiff/NT/<version>
+Umbenennen von CSDiffXXX.exe nach CSDiff.exe
+
+(und die üblichen Sachen: version_3rdparty.properties)

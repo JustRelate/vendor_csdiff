@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML_DIZ_INFO>
+	<MASTER_PAD_VERSION_INFO>
+		<MASTER_PAD_VERSION>2.01</MASTER_PAD_VERSION>
+		<MASTER_PAD_EDITOR>PADGen 2.0.1.22 http://www.padgen.org</MASTER_PAD_EDITOR>
+		<MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+	</MASTER_PAD_VERSION_INFO>
+	<Company_Info>
+		<Company_Name>ComponentSoftware Inc.</Company_Name>
+		<Address_1>4809 Avenue N, Suite 280</Address_1>
+		<Address_2 />
+		<City_Town>Brooklyn</City_Town>
+		<State_Province>NY</State_Province>
+		<Zip_Postal_Code>11234</Zip_Postal_Code>
+		<Country>USA</Country>
+		<Company_WebSite_URL>http://www.componentsoftware.com</Company_WebSite_URL>
+		<Contact_Info>
+			<Author_First_Name>David</Author_First_Name>
+			<Author_Last_Name>Matyas</Author_Last_Name>
+			<Author_Email>products@componentsoftware.com</Author_Email>
+			<Contact_First_Name>David</Contact_First_Name>
+			<Contact_Last_Name>Matyas</Contact_Last_Name>
+			<Contact_Email>products@componentsoftware.com</Contact_Email>
+		</Contact_Info>
+		<Support_Info>
+			<Sales_Email>sales@componentsoftware.com</Sales_Email>
+			<Support_Email>support@componentsoftware.com</Support_Email>
+			<General_Email>products@componentsoftware.com</General_Email>
+			<Sales_Phone>(866) 321-2586</Sales_Phone>
+			<Support_Phone />
+			<General_Phone>(866) 321-2586</General_Phone>
+			<Fax_Phone>(800) 886-3724</Fax_Phone>
+		</Support_Info>
+	</Company_Info>
+	<Program_Info>
+		<Program_Name>CSDiff</Program_Name>
+		<Program_Version>5.0</Program_Version>
+		<Program_Release_Month>03</Program_Release_Month>
+		<Program_Release_Day>09</Program_Release_Day>
+		<Program_Release_Year>2005</Program_Release_Year>
+		<Program_Cost_Dollars />
+		<Program_Cost_Other_Code />
+		<Program_Cost_Other />
+		<Program_Type>Freeware</Program_Type>
+		<Program_Release_Status>New Release</Program_Release_Status>
+		<Program_Install_Support>Install and Uninstall</Program_Install_Support>
+		<Program_OS_Support>Win95,Win98,WinME,WinNT 3.x,WinNT 4.x,Windows2000,WinXP</Program_OS_Support>
+		<Program_Language>English</Program_Language>
+		<Program_Change_Info>See http://www.componentsoftware.com/Products/CSDiff/news.htm</Program_Change_Info>
+		<Program_Specific_Category>Utilities</Program_Specific_Category>
+		<Program_Category_Class>System Utilities::File &amp; Disk Management</Program_Category_Class>
+		<Program_Categories>File Comparison,File Utilities,Programming, Revision Control, Freeware, File Management</Program_Categories>
+		<Program_System_Requirements>2.34 MB free disk space</Program_System_Requirements>
+		<Includes_JAVA_VM>N</Includes_JAVA_VM>
+		<Includes_VB_Runtime>N</Includes_VB_Runtime>
+		<Includes_DirectX>N</Includes_DirectX>
+		<File_Info>
+			<Filename_Versioned>CSDiff50.zip</Filename_Versioned>
+			<Filename_Previous>CSDiff42.zip</Filename_Previous>
+			<Filename_Generic>CSDiff.zip</Filename_Generic>
+			<Filename_Long />
+			<File_Size_Bytes>1364542</File_Size_Bytes>
+			<File_Size_K>1332</File_Size_K>
+			<File_Size_MB>1.30</File_Size_MB>
+		</File_Info>
+		<Expire_Info>
+			<Has_Expire_Info>N</Has_Expire_Info>
+			<Expire_Count />
+			<Expire_Based_On>Days</Expire_Based_On>
+			<Expire_Other_Info />
+			<Expire_Month />
+			<Expire_Day />
+			<Expire_Year />
+		</Expire_Info>
+	</Program_Info>
+	<Program_Descriptions>
+		<English>
+			<Keywords>visual compare, visual difference analysis, MS-Word difference analysis, version control, revision control system, software configuration management, programming tools, inexpensive case tool, source change control, program problem tracking, zip</Keywords>
+			<Char_Desc_45> Free file-difference analysis tool</Char_Desc_45>
+			<Char_Desc_80>ComponentSoftware Diff (CSDiff) -  Free file-difference analysis tool</Char_Desc_80>
+			<Char_Desc_250>ComponentSoftware Diff (CSDiff) is a free, advanced file-difference analysis tool for Microsoft Windows.</Char_Desc_250>
+			<Char_Desc_450>ComponentSoftware Diff (CSDiff) is a free, advanced file-difference analysis tool for Microsoft Windows. CSDiff is a great asset to anyone in need of analyzing changes which have been made between two revisions of the same file or folder. CSDiff is commonly used when analyzing program source files, HTML documents and MS-Word documents.</Char_Desc_450>
+			<Char_Desc_2000>ComponentSoftware Diff (CSDiff) is a free, advanced file-difference analysis tool for Microsoft Windows. CSDiff is a great asset to anyone in need of analyzing changes which have been made between two revisions of the same file or folder. CSDiff is commonly used when analyzing program source files, HTML documents and MS-Word documents.
+
+Key features in CSDiff:
+· Powerful folder and single file comparison tool.
+· Single screen display provides a unique, intuitive difference analysis, making it ideal for printout and reports.
+· Edit mode allows to accept, reject or manually edit any modifications.
+· Change detection by line, by word or by character.
+· Smart white-space difference analysis option. 
+· Analysis of MS-Word documents. (MS-Word required)
+· Sophisticated folder difference analysis sorted by any key.
+· Support of compressed folders (ZIP files) for comparison between archived folders and regular folders.
+· Enhanced folder difference analysis reports, including: HTML reports, XML reports, filters and optional links to file-level analysis. 
+· Freeware -- CSDiff may be used completely free of charge
+
+New features in version 5.0:
+· Support of compressed folders (ZIP files) for comparison between archived folders and regular folders.
+· Review mode permits output file editing.
+· Improved accuracy.
+
+Fixes in version 5.0:
+· Bug in Report command for folder analysis fixed.
+· Additional fixes.</Char_Desc_2000>
+		</English>
+	</Program_Descriptions>
+	<Web_Info>
+		<Application_URLs>
+			<Application_Info_URL>http://www.componentsoftware.com/Products/CSDiff</Application_Info_URL>
+			<Application_Order_URL />
+			<Application_Screenshot_URL>http://www.componentsoftware.com/ftp/DocAnalOperation.gif</Application_Screenshot_URL>
+			<Application_Icon_URL>http://www.componentsoftware.com/ftp/csdiff.ico.gif</Application_Icon_URL>
+			<Application_XML_File_URL>http://www.componentsoftware.com/ftp/CSDiff.xml</Application_XML_File_URL>
+		</Application_URLs>
+		<Download_URLs>
+			<Primary_Download_URL>http://www.componentsoftware.com/pftp/csdiff.zip</Primary_Download_URL>
+			<Secondary_Download_URL>http://www.rcspro.com/ftp/csdiff.zip</Secondary_Download_URL>
+			<Additional_Download_URL_1 />
+			<Additional_Download_URL_2 />
+		</Download_URLs>
+	</Web_Info>
+	<Permissions>
+		<Distribution_Permissions>You are hereby licensed to make as many copies of the complete and unmodified package of this 
+product and distribute it by any mean. There is no charge for this right.</Distribution_Permissions>
+		<EULA>CSDiff Version 5.0
+Copyright (C) 2005 ComponentSoftware, Inc.
+All Rights Reserved
+
+License Agreement
+
+The following terms and conditions should be read carefully before using this software. Your use of this software indicates your acceptance of this license agreement and warranty.
+
+Freeware
+
+You may use this product free of charge.
+
+Disclaimer of Warranty
+
+      THIS SOFTWARE IS DISTRIBUTED "AS IS" AND WITHOUT
+WARRANTIES AS TO PERFORMANCE OF MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED.  BECAUSE
+OF THE VARIOUS HARDWARE AND SOFTWARE ENVIRONMENTS INTO
+WHICH THIS PROGRAM MAY BE PUT, NO WARRANTY OF FITNESS FOR
+A PARTICULAR PURPOSE IS OFFERED.  GOOD DATA PROCESSING
+PROCEDURE DICTATES THAT ANY PROGRAM BE THOROUGHLY
+TESTED WITH NON-CRITICAL DATA BEFORE RELYING ON IT.  THE
+USER MUST ASSUME THE ENTIRE RISK OF USING THE PROGRAM.
+ANY LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO
+PRODUCT REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+Further Distribution
+
+You are hereby licensed to make as many copies of the complete and unmodified package of this product and distribute it by any mean. There is no charge for this right.
+
+Reverse-Engineering
+
+You may not reverse engineer, decompile, disassemble or alter this software product in any way.
+
+Separation of Components
+
+This software product is licensed as a single product. Its component parts may not be separated for any use or distribution.</EULA>
+	</Permissions>
+	<ASP>
+		<ASP_FORM>Y</ASP_FORM>
+		<ASP_Member>N</ASP_Member>
+		<ASP_Member_Number />
+	</ASP>
+	<CSUPGRADEINFO>
+		<CsInfo>What's new in version 5.0
+==========================
+· Support of compressed folders (ZIP files) for comparison of archived folders and regular folders.
+· Review mode permits output file editing.
+· Greatly improved accuracy.
+
+Fixes in version 5.0
+==========================
+· Bug in Report command for folder analysis fixed.
+· Additional fixes.</CsInfo>
+		<VerNumber>5.0.208</VerNumber>
+	</CSUPGRADEINFO>
+</XML_DIZ_INFO>
